@@ -14,7 +14,7 @@
 
 header {
     padding: 20px 35px;
-    background: tomato;
+    background: rgb(226, 208, 183);
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
