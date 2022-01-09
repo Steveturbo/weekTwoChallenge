@@ -597,4 +597,6 @@ footer {
         display: flex;
       }
       
-      
+      .fix {
+        width: 100%;
+      }
