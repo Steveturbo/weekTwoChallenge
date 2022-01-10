@@ -1,3 +1,8 @@
+![alt text](https://![image](https://user-images.githubusercontent.com/95594157/148710295-72ae0971-d8e6-445d-8328-0be65468f3a9.png)s://user-images.githubusercontent.com/95594157/148710295-72ae0971-d8e6-445d-8328-0be65468f3a9.png)
+
+
+
+
 # weekTwoChallenge Steve's Bio.
 
 This is my the first website I have designed and built by myself.
@@ -29,3 +34,4 @@ Footer: This is just a basic footer.
 
 
 This is a link to my page: https://steveturbo.github.io/weekTwoChallenge/
+![image](https://user-images.githubusercontent.com/95594157/148710295-72ae0971-d8e6-445d-8328-0be65468f3a9.png)
