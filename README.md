@@ -33,5 +33,9 @@ Contact me section: Basic contact information.
 Footer: This is just a basic footer. 
 
 
+I would like to acknowledge all the teaching assistaants, My tutor Joem, our class instructor and all my peers who help 
+so much. 
+
+
 This is a link to my page: https://steveturbo.github.io/weekTwoChallenge/
 ![image](https://user-images.githubusercontent.com/95594157/148710295-72ae0971-d8e6-445d-8328-0be65468f3a9.png)
